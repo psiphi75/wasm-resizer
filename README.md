@@ -1,8 +1,8 @@
 # wasm-resizer
 
-A demo app on how to use Rust with Cloudflare workers to resize a .png image.
+A demo app on how to use Rust with Cloudflare workers to resize a .png image.  This is based on the `rustwasm-worker-template`.
 
-## 👷‍♀️🦀🕸️ `rustwasm-worker-template`
+## Wasm-worker-template
 
 A template for kick starting a Cloudflare worker project using
 [`wasm-pack`](https://github.com/rustwasm/wasm-pack).
